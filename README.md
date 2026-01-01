@@ -101,3 +101,12 @@ To lock results:
 │   └── (pngs used in README / WordPress)
 ├── requirements.txt
 └── .gitignore
+
+
+## Quick start
+pip install -r requirements.txt  
+Open `notebooks/Crypto_Statistical_Arbitrage.ipynb` in Colab/Jupyter.
+
+## License
+MIT (see `LICENSE`).
+
